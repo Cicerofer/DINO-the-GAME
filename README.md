@@ -4,7 +4,10 @@
 
 
 
-![](C:\Users\cicer\Music\JOGO-DINO01.png)
+![imagem do jogo](JOGO-DINO01.png)
+
+
+
 
 
 
